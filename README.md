@@ -1,2 +1,3 @@
 # Tide
-### BETA
+> Safe
+> Fast
